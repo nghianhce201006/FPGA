@@ -1,0 +1,21 @@
+{
+ "Device" : "GW5A-25A",
+ "Files" : [
+  {
+   "Path" : "E:/FAP/lab1/src/lab01.v",
+   "Type" : "verilog"
+  },
+  {
+   "Path" : "E:/FAP/lab1/src/lab01_tb.v",
+   "Type" : "verilog"
+  }
+ ],
+ "IncludePath" : [
+
+ ],
+ "LoopLimit" : 2000,
+ "ResultFile" : "E:/FAP/lab1/impl/temp/rtl_parser.result",
+ "Top" : "lab01",
+ "VerilogStd" : "verilog_2001",
+ "VhdlStd" : "vhdl_93"
+}
